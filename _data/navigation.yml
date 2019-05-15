@@ -2,10 +2,23 @@
   url: "/"
   side: left
 
-- title: About
+- title: Mission
   url: "/info/"
   side: left
-
+  dropdown:
+  - title: "Perfusion Software Inventory"
+    url: "/info/psi/"
+  - title: "Perfusion Code Library "
+    url: "/info/pcl/"
+  - title: "Perfusion Data Inventory "
+    url: "/info/pdi/"
+  - title: "Reporting Guidelines "
+    url: "/info/report/"
+  - title: "Exchange "
+    url: "/info/exchange/"
+  - title: "Benchmarking "
+    url: "/info/benchmark/"
+    
 - title: "Forum"
   url: "/forum/"
   side: left
